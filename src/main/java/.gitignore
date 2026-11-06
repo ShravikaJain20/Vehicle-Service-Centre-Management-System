@@ -1,0 +1,14 @@
+# Java / Maven
+target/
+*.class
+
+# Passwords and private settings
+db.properties
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log

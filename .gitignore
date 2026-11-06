@@ -1,0 +1,14 @@
+# Database passwords
+db.properties
+.env
+
+# Java files
+target/
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
